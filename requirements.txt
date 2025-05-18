@@ -1,0 +1,15 @@
+matplotlib==3.10.3
+MedPy==0.5.2
+ml_collections==1.1.0
+numpy==2.2.6
+opencv_python==4.11.0.86
+pandas==2.2.3
+Pillow==11.2.1
+scipy==1.15.3
+SimpleITK==2.4.1
+SimpleITK==2.5.0
+tensorboardX==2.6.2.2
+tensorboardX==2.6.2.2
+torch==2.6.0+cu126
+torchvision==0.21.0+cu126
+tqdm==4.67.1
